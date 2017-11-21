@@ -11,13 +11,12 @@
       {% include logo.html %}
       <header>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
       <br>
       <table>
         <tr><th>Links</th></tr>
-        <tr><td>Sponsor the podcast</td></tr>
-        <tr><td>RSS Feed</td></tr>
-        <tr><td>About the hosts</td></tr>
+        <tr><td><a href="{{ site.baseurl }}{% link sponsor.md %}">Sponsor the podcast</a></td></tr>
+        <tr><td><a href="{{ site.baseurl }}{% link rss.md %}">RSS Feed</a></td></tr>
+        <tr><td><a href="{{ site.baseurl }}{% link about.md %}">About the hosts</a></td></tr>
         <tr><td>Feedback</td></tr>
       </table>
 
