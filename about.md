@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Who
-A podcast show featuring Vijay Kiran and Ray McDermott.
+A podcast show produced and hosted by Vijay Kiran and Ray McDermott.
 
 # Where
 We live in Holland and Belgium respectively and are enthusiastic Clojure programmers.
