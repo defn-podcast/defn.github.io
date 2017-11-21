@@ -52,3 +52,10 @@ We discover that David is a bridge between politics of all sorts. Mainly memorab
 - <a href="https://github.com/mfikes/planck" target="_blank">Planck for MacOS</a>
 - <a href="https://github.com/viebel/klipse" target="_blank">Klipse for adding live scripting to blogs</a>
 - <a href="https://github.com/thheller/shadow-cljs" target="_blank">An alternative CLJS compiler - Shadow CLJS</a>
+
+### Concurrent Javascript
+- <a href="https://webkit.org/blog/7846/concurrent-javascript-it-can-work/" target="_blank">Proposal from the web kit team</a>
+- <a href="https://github.com/tc39/ecmascript_sharedmem" target="_blank">ECMAScript shared memory repo</a>
+
+## Music
+- <a href="https://hairysands.bandcamp.com/" target="_blank">David is a member of Hairy Sands</a>
