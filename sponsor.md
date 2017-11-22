@@ -4,12 +4,10 @@ layout: default
 
 # Sponsorship
 
-We have hardware, software and service costs associated with producing the podcast.
-
 We are grateful for the support of our friends and patrons in in the community.
 
 ## Patreon
 
-To make it easy to show your support for the show, we have a Patreon account for more refined listeners
+To make it easy to show your support for the show, we have a Patreon account
 
 <a href="https://www.patreon.com/defn" target="_blank">Become a Patron!</a>
