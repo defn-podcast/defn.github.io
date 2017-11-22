@@ -1,34 +1,40 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="{{ site.lang | default: " en-US" }}">
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
-  </head>
-  <body>
-    <div class="wrapper">
-            {% include logo.html %}
+</head>
+<body>
+<div class="wrapper">
 
-      <header>
+    <header>
+        {% include logo.html %}
+        <br>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+    </header>
+
+    <section>
+
+        <h2>{{ page.title }}</h2>
+
         <br>
 
-        {% include navigation.html %}
+        {{ content }}
 
-      </header>
-      <section>
+    </section>
 
+    <footer>
+        <li><a href="{{ site.baseurl }}{% link index.md %}">Home Page</a></li>
 
-      {{ content }}
+        {% include nav.html %}
 
-      </section>
-
-      <footer>
         {% include footer.html %}
-      <footer>
+    </footer>
 
-    </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+</div>
+<script src="{{ '/assets/js/scale.fix.js' | relative_url }}"/>
 
-  </body>
+</body>
 </html>

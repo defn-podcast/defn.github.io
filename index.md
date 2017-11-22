@@ -4,7 +4,7 @@ layout: default
 
 ## Show notes for the latest episode
 
-<h3>
+<h2>
   <ul>
     {% for post in site.posts limit:1 %}
     <li>
@@ -13,9 +13,9 @@ layout: default
     <br>
     {% endfor %}
   </ul>
-</h3>
+</h2>
 
-## Show notes for all episodes
+### Show notes for all episodes
 
 <h3>
   <ul>
