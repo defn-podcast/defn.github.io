@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#26 David Nolen - @swannodette"
+title:  "#26 David Nolen @swannodette"
 date:   2017-11-07 12:12:00
 categories: Episodes
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#21 - James Reeves aka @weavejester"
+title:  "#21 James Reeves @weavejester"
 date:   2017-05-28 12:12:00
 categories: Episodes
 ---
