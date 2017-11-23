@@ -5,7 +5,7 @@ date:   2017-11-07 12:12:00
 categories: Episodes
 ---
 
-{% include soundcloud.html track.number="355054697" %}
+{% include soundcloud.html number="355054697" %}
 
 <br>
 
