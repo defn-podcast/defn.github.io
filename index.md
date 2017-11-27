@@ -15,7 +15,7 @@ layout: default
   </ul>
 </h2>
 
-### Show notes for all episodes
+### Show notes for all previous episodes
 
 <h3>
   <ul>
