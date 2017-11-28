@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#27 Daniel Compton @danielwithmusic"
+title:  "#27 - Daniel Compton @danielwithmusic"
 date:   2017-11-26 12:12:00
 categories: Episodes
 ---
