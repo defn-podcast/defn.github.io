@@ -41,12 +41,12 @@ An overview of core and contributed collections and their use.
 - Sometimes you need side effects so you cannot be lazy
     - Doall, doseq
 - Persistent vs. Transient
-- Performance
-    - Specter - Nathan Marz
-        - Ensure output format of collection operations is controlled
-        - Editing operations
-        - <a href="https://www.youtube.com/watch?v=VTCy_DkAJGk" 
-            target="_blank">Clojure West 2016 presentation</a> 
+    - Performance
+- Specter - Nathan Marz
+    - Ensure output format of collection operations is controlled
+    - Editing operations
+    - <a href="https://www.youtube.com/watch?v=VTCy_DkAJGk" 
+        target="_blank">Clojure West 2016 presentation</a> 
 
 #### Community contributed collections - shout out to
 - Chris Houser - <a href="https://github.com/clojure/data.zip/" target="_blank">Data.zip</a>
