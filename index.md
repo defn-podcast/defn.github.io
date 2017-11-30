@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 ## Show notes for the latest episode
 
 <h2>
@@ -18,15 +17,6 @@ layout: default
 
 <div id="defn-container"/>
 
-### A little bit of interactive, boostrapped ClojureScript for you
-
-<pre><code class="klipse" data-preamble="(require '[reagent.core :as r])">
-(let [anchor (-> js/document (.getElementById "first-post"))]
-  (r/render-component 
-  [:a {:href (.-href anchor)} (.-text anchor)] 
-  js/klipse-container))
-</code></pre> 
-
 ### Show notes for all previous episodes
 
 <h3>
@@ -40,7 +30,15 @@ layout: default
   </ul>
 </h3>
 
-##### content being ported .... more soon...
+### A little bit of interactive, boostrapped ClojureScript for you
+
+<pre><code class="klipse" data-preamble="(require '[reagent.core :as r])">
+(let [anchor (-> js/document (.getElementById "first-post"))]
+  (r/render-component 
+  [:a {:href (.-href anchor)} (.-text anchor)] 
+  js/klipse-container))
+</code></pre> 
+
 
 
 
