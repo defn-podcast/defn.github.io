@@ -9,7 +9,7 @@ layout: default
   <ul>
     {% for post in site.posts limit:1 %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <a id="first-post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
     <br>
     {% endfor %}
@@ -31,14 +31,27 @@ layout: default
 
 ##### content being ported .... more soon...
 
-
 <!-- 
+We can add content via client-side code when we are ready using this ....
 
-We can add code when we are ready using this ....
 
-<pre><code class="klipse">
-    (+ 1 2 3 4)
+<div id="defn-container"/>
+
+<pre class="hidden"><code class="klipse">
+(require '[reagent.core :as r])
+(set!
+  (.-innerHTML (js/document.getElementById "defn-container"))
+  "<div style='color: red;'>Code also <strong>coming</strong> soon!</div>")
 </code></pre> 
 
 -->
+
+<pre><code class="klipse">
+(-> js/document
+    (.getElementById "first-post")
+    (.-innerHTML))
+</code></pre> 
+
+
+
 
