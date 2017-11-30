@@ -16,6 +16,17 @@ layout: default
   </ul>
 </h2>
 
+<div id="defn-container"/>
+
+### A little bit of interactive, boostrapped ClojureScript for you
+
+<pre><code class="klipse" data-preamble="(require '[reagent.core :as r])">
+(let [anchor (-> js/document (.getElementById "first-post"))]
+  (r/render-component 
+  [:a {:href (.-href anchor)} (.-text anchor)] 
+  js/klipse-container))
+</code></pre> 
+
 ### Show notes for all previous episodes
 
 <h3>
@@ -30,27 +41,6 @@ layout: default
 </h3>
 
 ##### content being ported .... more soon...
-
-<!-- 
-We can add content via client-side code when we are ready using this ....
-
-
-<div id="defn-container"/>
-
-<pre class="hidden"><code class="klipse">
-(require '[reagent.core :as r])
-(set!
-  (.-innerHTML (js/document.getElementById "defn-container"))
-  "<div style='color: red;'>Code also <strong>coming</strong> soon!</div>")
-</code></pre> 
-
--->
-
-<pre><code class="klipse">
-(-> js/document
-    (.getElementById "first-post")
-    (.-innerHTML))
-</code></pre> 
 
 
 
