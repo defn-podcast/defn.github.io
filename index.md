@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 ## Show notes for the latest episode
 
 <h2>
@@ -14,6 +15,10 @@ layout: default
     {% endfor %}
   </ul>
 </h2>
+
+```clojure
+(+ 1 2 3 4)
+```
 
 ### Show notes for all previous episodes
 
@@ -29,3 +34,4 @@ layout: default
 </h3>
 
 ##### content being ported .... more soon...
+
