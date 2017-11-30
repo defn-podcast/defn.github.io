@@ -16,10 +16,6 @@ layout: default
   </ul>
 </h2>
 
-```clojure
-  (+ 1 2 3 4)
-```
-
 ### Show notes for all previous episodes
 
 <h3>
@@ -34,4 +30,15 @@ layout: default
 </h3>
 
 ##### content being ported .... more soon...
+
+
+<!-- 
+
+We can add code when we are ready using this ....
+
+<pre><code class="klipse">
+    (+ 1 2 3 4)
+</code></pre> 
+
+-->
 
