@@ -17,7 +17,7 @@ layout: default
 </h2>
 
 ```clojure
-(+ 1 2 3 4)
+  (+ 1 2 3 4)
 ```
 
 ### Show notes for all previous episodes
