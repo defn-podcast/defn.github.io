@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#03 – Tour of the REPLs with Mike Fikes"
+title:  "03 – Tour of the REPLs with Mike Fikes"
 date:   2016-06-13 12:12:00
 categories: Episodes
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#01 – Hello world"
+title:  "01 – Hello world"
 date:   2016-04-18 12:12:00
 categories: Episodes
 ---

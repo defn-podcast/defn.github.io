@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#12 - EuroClojure Preview"
+title:  "12 - EuroClojure Preview"
 date:   2016-10-26 12:12:00
 categories: Episodes
 ---

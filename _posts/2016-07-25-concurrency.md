@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#06 - Concurrency and Parallelism"
+title:  "06 - Concurrency and Parallelism"
 date:   2016-07-25 12:12:00
 categories: Episodes
 ---

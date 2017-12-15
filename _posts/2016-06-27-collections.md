@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#04 – Collections"
+title:  "04 – Collections"
 date:   2016-06-27 12:12:00
 categories: Episodes
 ---

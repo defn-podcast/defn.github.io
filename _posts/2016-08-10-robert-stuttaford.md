@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#07 – Datomic with Robert Stuttaford"
+title:  "07 – Datomic with Robert Stuttaford"
 date:   2016-08-10 12:12:00
 categories: Episodes
 ---
