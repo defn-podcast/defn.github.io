@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "28 - Max Penet @mpenet"
+date:   2017-12-16 12:12:00
+categories: Episodes
+---
+
+{% include soundcloud.html number="771544745" %}
+
+<br>
+
+## Summary
+
+An entertaining episode with the Max Penet who has made his own keyboards as well as some popular Clojure libraries for noSQL databases.
+
+## Links
+
+- <a href="https://atreus.technomancy.us/" target="_blank">Keyboards</a>
+- <a href="https://github.com/swdunlop/WaspVM" target="_blank">Wasp LISP</a>
+- <a href="https://finity.ai paper.li" target="_blank">Max's real job at Paper</a>
+- <a href="https://github.com/mpenet/alia" target="_blank">Cassandra bindings - alia</a>
+- <a href="https://github.com/mpenet/hayt" target="_blank">Cassandra bindings - hayt</a>
+- <a href="https://github.com/mpenet/spandex" target="_blank">Elastic Search - spandex</a>
+
