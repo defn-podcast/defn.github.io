@@ -23,4 +23,20 @@ And enjoy!
 
 ## Links
 
-TBD
+<a href="https://github.com/ztellman" target="_blank">Zach's repos on GitHub</a>
+
+<a href="https://medium.com/@ztellman" target="_blank">Zach's writing on Medium</a>
+
+<a href="http://elementsofclojure.com" target="_blank">The book - Elements of Clojure</a>
+
+## Sponsor: paren-treats
+
+<a href="https://github.com/shaunlebron/parinfer" target="_blank">(parinfer.open</a>
+<br>
+and
+<br>
+<a href="https://github.com/ccw-ide/ccw/tree/master/paredit.clj" target="_blank"> paredit.closed)</a>
+
+Coupon code is DEFN2018 - your first 6 packs are free!
+
+Thank you to paren-treats for their balance and encouragement
