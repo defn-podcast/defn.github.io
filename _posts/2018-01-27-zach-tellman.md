@@ -21,6 +21,10 @@ Also, take your time. Breath.
 
 And enjoy!
 
+<a href="https://curiousprogrammer.net/2018/02/10/defn-podcast-episode-30-zach-tellman/" target="_blank">PS ... 
+please check out Juraj Martinka's far more extensive notes on this episode!</a>
+
+
 ## Links
 
 <a href="https://github.com/ztellman" target="_blank">Zach's repos on GitHub</a>
