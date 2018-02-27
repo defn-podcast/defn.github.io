@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "30 - Zach Tellmen aka @ztellman"
+title:  "30 - Zach Tellman aka @ztellman"
 date:   2018-01-27 12:12:00
 categories: Episodes
 ---
